@@ -1,6 +1,8 @@
 <h1> Oi, eu sou a Giovanna 👩🏻‍💻</h1>
   
- <body> estudante de engenharia da computação e apaixonada por UX/UI</body>
+ <body>▫️ Estudante de Engenharia de Computação pela Universidade Tecnológica Federal do Paraná (UTFPR).<br>
+▫️ Busco conhecimento nos métodos e ferramentas para contribuir com o design de ponta a ponta, do research ao front-end. 
+</body>
  <br><br>
 
  <div>
